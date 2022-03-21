@@ -1,11 +1,20 @@
 module.exports = {
   content: [
-    './src/components/**/*.{ts,tsx,js,jsx}', 
-    './src/pages/**/*.{ts,tsx,js,jsx}'
+    "./src/pages/**/*.{js,ts,jsx,tsx}",
+    "./components/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage:{
+        "background":"url(/Background.png)"
+      },
+      screens: {
+        'usm': '300px',
+        'msm':'450px',
+        'sm':'640px',
+        'msl':'900px'
+      },
+    },
   },
-  variants: {},
   plugins: [],
 }
