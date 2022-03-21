@@ -31,7 +31,7 @@ export default function Home() {
           </div>
           <div className="absolute bottom-2 flex flex-col items-start justify-center w-[100%] px-[20px] sm:box-border sm:w-[90%] sm:flex sm:flex-row sm:items-center sm:justify-between">
             <img src="/Logo.svg" className="w-[30%] max-w-[100px]" />
-            <div className="flex items-center items-center justify-evenly w-[30%]">
+            <div className="flex items-center items-center justify-between w-[100%] sm:w-[30%] ">
               <h1 className="">Terms and Conditions</h1>
               <h1 className="">Privacy Policy</h1>
             </div>
