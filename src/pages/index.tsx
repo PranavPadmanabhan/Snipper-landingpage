@@ -18,7 +18,7 @@ export default function Home() {
             <span className="text-white text-[18px] font-bold">Get Started &#160;- <span className="text-gray-500 font-light">&#160;it's free</span></span>
           </div>
           <h1 className="text-gray-900 text-[18px] font-light my-[1.9vw] z-10 sm:my-[1.2vh] sm:text-[22px]">No credit card required</h1>
-          <img src="/Snippet Image.png" alt="" className="absolute bottom-0 h-[40%] w-[90%] sm:h-[35%]" />
+          <img src="/Snippet Image.png" alt="" className="absolute bottom-0 h-[40%] w-[90%] sm:h-[33%]" />
         </section>
         <section className="relative h-[100vh] flex flex-col items-center justify-start w-[100vw] bg-white bg-no-repeat bg-cover snap-start flex-shrink-0 sm: sm:flex-row-reverse sm:px-[100px]">
           <img src="/Customizable Image.png" className="w-[85%] my-[5vh] ml-[20px] sm:w-[35%]" />
