@@ -1,5 +1,5 @@
 
-##[LIVE DEMO](https://snipper-landingpage.vercel.app/)
+## [LIVE DEMO](https://snipper-landingpage.vercel.app/)
 
 
 # Next.js TailwindCSS Typescript Starter
